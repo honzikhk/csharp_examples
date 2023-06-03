@@ -1,0 +1,15 @@
+F:\programming\c#\from_tf\8_array_4\bin\Debug\net6.0\8_array_4.exe
+F:\programming\c#\from_tf\8_array_4\bin\Debug\net6.0\8_array_4.deps.json
+F:\programming\c#\from_tf\8_array_4\bin\Debug\net6.0\8_array_4.runtimeconfig.json
+F:\programming\c#\from_tf\8_array_4\bin\Debug\net6.0\8_array_4.dll
+F:\programming\c#\from_tf\8_array_4\bin\Debug\net6.0\8_array_4.pdb
+F:\programming\c#\from_tf\8_array_4\obj\Debug\net6.0\8_array_4.csproj.AssemblyReference.cache
+F:\programming\c#\from_tf\8_array_4\obj\Debug\net6.0\8_array_4.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\c#\from_tf\8_array_4\obj\Debug\net6.0\8_array_4.AssemblyInfoInputs.cache
+F:\programming\c#\from_tf\8_array_4\obj\Debug\net6.0\8_array_4.AssemblyInfo.cs
+F:\programming\c#\from_tf\8_array_4\obj\Debug\net6.0\8_array_4.csproj.CoreCompileInputs.cache
+F:\programming\c#\from_tf\8_array_4\obj\Debug\net6.0\8_array_4.dll
+F:\programming\c#\from_tf\8_array_4\obj\Debug\net6.0\refint\8_array_4.dll
+F:\programming\c#\from_tf\8_array_4\obj\Debug\net6.0\8_array_4.pdb
+F:\programming\c#\from_tf\8_array_4\obj\Debug\net6.0\8_array_4.genruntimeconfig.cache
+F:\programming\c#\from_tf\8_array_4\obj\Debug\net6.0\ref\8_array_4.dll

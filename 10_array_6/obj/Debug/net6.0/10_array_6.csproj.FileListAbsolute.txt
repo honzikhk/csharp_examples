@@ -1,0 +1,15 @@
+F:\programming\c#\from_tf\10_array_6\bin\Debug\net6.0\10_array_6.exe
+F:\programming\c#\from_tf\10_array_6\bin\Debug\net6.0\10_array_6.deps.json
+F:\programming\c#\from_tf\10_array_6\bin\Debug\net6.0\10_array_6.runtimeconfig.json
+F:\programming\c#\from_tf\10_array_6\bin\Debug\net6.0\10_array_6.dll
+F:\programming\c#\from_tf\10_array_6\bin\Debug\net6.0\10_array_6.pdb
+F:\programming\c#\from_tf\10_array_6\obj\Debug\net6.0\10_array_6.csproj.AssemblyReference.cache
+F:\programming\c#\from_tf\10_array_6\obj\Debug\net6.0\10_array_6.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\c#\from_tf\10_array_6\obj\Debug\net6.0\10_array_6.AssemblyInfoInputs.cache
+F:\programming\c#\from_tf\10_array_6\obj\Debug\net6.0\10_array_6.AssemblyInfo.cs
+F:\programming\c#\from_tf\10_array_6\obj\Debug\net6.0\10_array_6.csproj.CoreCompileInputs.cache
+F:\programming\c#\from_tf\10_array_6\obj\Debug\net6.0\10_array_6.dll
+F:\programming\c#\from_tf\10_array_6\obj\Debug\net6.0\refint\10_array_6.dll
+F:\programming\c#\from_tf\10_array_6\obj\Debug\net6.0\10_array_6.pdb
+F:\programming\c#\from_tf\10_array_6\obj\Debug\net6.0\10_array_6.genruntimeconfig.cache
+F:\programming\c#\from_tf\10_array_6\obj\Debug\net6.0\ref\10_array_6.dll

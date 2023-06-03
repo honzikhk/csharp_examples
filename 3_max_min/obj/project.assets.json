@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\programming\\c#\\from_tf\\3_max_min\\3_max_min.csproj",
-      "projectName": "3_max_min",
-      "projectPath": "F:\\programming\\c#\\from_tf\\3_max_min\\3_max_min.csproj",
+      "projectUniqueName": "F:\\programming\\c#\\from_tf\\3_max_min\\03_max_min.csproj",
+      "projectName": "03_max_min",
+      "projectPath": "F:\\programming\\c#\\from_tf\\3_max_min\\03_max_min.csproj",
       "packagesPath": "C:\\Users\\chudi\\.nuget\\packages\\",
       "outputPath": "F:\\programming\\c#\\from_tf\\3_max_min\\obj\\",
       "projectStyle": "PackageReference",

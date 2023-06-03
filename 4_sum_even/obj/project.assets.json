@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\programming\\c#\\from_tf\\4_sum_even\\4_sum_even.csproj",
-      "projectName": "4_sum_even",
-      "projectPath": "F:\\programming\\c#\\from_tf\\4_sum_even\\4_sum_even.csproj",
+      "projectUniqueName": "F:\\programming\\c#\\from_tf\\4_sum_even\\04_sum_even.csproj",
+      "projectName": "04_sum_even",
+      "projectPath": "F:\\programming\\c#\\from_tf\\4_sum_even\\04_sum_even.csproj",
       "packagesPath": "C:\\Users\\chudi\\.nuget\\packages\\",
       "outputPath": "F:\\programming\\c#\\from_tf\\4_sum_even\\obj\\",
       "projectStyle": "PackageReference",

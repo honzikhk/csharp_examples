@@ -1,0 +1,15 @@
+F:\programming\c#\from_tf\11_functions_1\obj\Debug\net6.0\11_functions_1.csproj.AssemblyReference.cache
+F:\programming\c#\from_tf\11_functions_1\obj\Debug\net6.0\11_functions_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\c#\from_tf\11_functions_1\obj\Debug\net6.0\11_functions_1.AssemblyInfoInputs.cache
+F:\programming\c#\from_tf\11_functions_1\obj\Debug\net6.0\11_functions_1.AssemblyInfo.cs
+F:\programming\c#\from_tf\11_functions_1\obj\Debug\net6.0\11_functions_1.csproj.CoreCompileInputs.cache
+F:\programming\c#\from_tf\11_functions_1\bin\Debug\net6.0\11_functions_1.exe
+F:\programming\c#\from_tf\11_functions_1\bin\Debug\net6.0\11_functions_1.deps.json
+F:\programming\c#\from_tf\11_functions_1\bin\Debug\net6.0\11_functions_1.runtimeconfig.json
+F:\programming\c#\from_tf\11_functions_1\bin\Debug\net6.0\11_functions_1.dll
+F:\programming\c#\from_tf\11_functions_1\bin\Debug\net6.0\11_functions_1.pdb
+F:\programming\c#\from_tf\11_functions_1\obj\Debug\net6.0\11_functions_1.dll
+F:\programming\c#\from_tf\11_functions_1\obj\Debug\net6.0\refint\11_functions_1.dll
+F:\programming\c#\from_tf\11_functions_1\obj\Debug\net6.0\11_functions_1.pdb
+F:\programming\c#\from_tf\11_functions_1\obj\Debug\net6.0\11_functions_1.genruntimeconfig.cache
+F:\programming\c#\from_tf\11_functions_1\obj\Debug\net6.0\ref\11_functions_1.dll
